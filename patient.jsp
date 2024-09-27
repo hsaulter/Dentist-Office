@@ -1,7 +1,5 @@
 <%-- 
     Document   : patient
-    Created on : Dec 3, 2023, 6:47:17 PM
-    Author     : sault
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8" language="java"%>
